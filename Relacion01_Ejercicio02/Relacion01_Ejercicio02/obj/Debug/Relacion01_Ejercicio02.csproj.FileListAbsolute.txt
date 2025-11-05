@@ -1,0 +1,15 @@
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\bin\Debug\Relacion01_Ejercicio02.exe.config
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\bin\Debug\Relacion01_Ejercicio02.exe
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\bin\Debug\Relacion01_Ejercicio02.pdb
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.csproj.AssemblyReference.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\MainWindow.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\App.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02_MarkupCompile.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02_MarkupCompile.lref
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\MainWindow.baml
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.g.resources
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.Properties.Resources.resources
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.csproj.GenerateResource.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.exe
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion01_Ejercicio02\Relacion01_Ejercicio02\obj\Debug\Relacion01_Ejercicio02.pdb
