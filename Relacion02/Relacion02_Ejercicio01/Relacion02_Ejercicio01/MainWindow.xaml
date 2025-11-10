@@ -1,0 +1,21 @@
+﻿    <Window x:Class="Relacion02_Ejercicio01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Relacion02_Ejercicio01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Text="¡Viva el Betis!" Foreground="Green" Margin="2"/>
+                    <TextBlock Text="Manque pierda" Foreground="Blue" Margin="2"/>
+                    <TextBlock Text="Real Betis Balompié" Margin="2"/>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+
+</Window>

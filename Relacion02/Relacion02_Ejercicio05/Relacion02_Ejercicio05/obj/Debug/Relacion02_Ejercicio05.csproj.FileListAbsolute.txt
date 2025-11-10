@@ -1,0 +1,16 @@
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\App.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05_MarkupCompile.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05_MarkupCompile.lref
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\bin\Debug\Relacion02_Ejercicio05.exe.config
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\bin\Debug\Relacion02_Ejercicio05.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\bin\Debug\Relacion02_Ejercicio05.pdb
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\MainWindow.baml
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.g.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.Properties.Resources.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.csproj.GenerateResource.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.pdb
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio05\Relacion02_Ejercicio05\obj\Debug\Relacion02_Ejercicio05.exe.config

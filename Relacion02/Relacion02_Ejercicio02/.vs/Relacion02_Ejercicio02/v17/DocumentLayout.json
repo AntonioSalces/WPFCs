@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Documents\\repos\\Propios\\cs\\Relacion02_Ejercicio02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89C4DE4-FCAC-49E1-BBFE-325CD8591AC4}|Relacion02_Ejercicio02\\Relacion02_Ejercicio02.csproj|c:\\users\\anton\\documents\\repos\\propios\\cs\\relacion02_ejercicio02\\relacion02_ejercicio02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89C4DE4-FCAC-49E1-BBFE-325CD8591AC4}|Relacion02_Ejercicio02\\Relacion02_Ejercicio02.csproj|solutionrelative:relacion02_ejercicio02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89C4DE4-FCAC-49E1-BBFE-325CD8591AC4}|Relacion02_Ejercicio02\\Relacion02_Ejercicio02.csproj|c:\\users\\anton\\documents\\repos\\propios\\cs\\relacion02_ejercicio02\\relacion02_ejercicio02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A89C4DE4-FCAC-49E1-BBFE-325CD8591AC4}|Relacion02_Ejercicio02\\Relacion02_Ejercicio02.csproj|solutionrelative:relacion02_ejercicio02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anton\\Documents\\repos\\Propios\\cs\\Relacion02_Ejercicio02\\Relacion02_Ejercicio02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Relacion02_Ejercicio02\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anton\\Documents\\repos\\Propios\\cs\\Relacion02_Ejercicio02\\Relacion02_Ejercicio02\\MainWindow.xaml",
+              "RelativeToolTip": "Relacion02_Ejercicio02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T21:20:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Documents\\repos\\Propios\\cs\\Relacion02_Ejercicio02\\Relacion02_Ejercicio02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Relacion02_Ejercicio02\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anton\\Documents\\repos\\Propios\\cs\\Relacion02_Ejercicio02\\Relacion02_Ejercicio02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Relacion02_Ejercicio02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T21:20:11.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\bin\Debug\Relacion02_Ejercicio07_ConCaptura.exe.config
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\bin\Debug\Relacion02_Ejercicio07_ConCaptura.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\bin\Debug\Relacion02_Ejercicio07_ConCaptura.pdb
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\App.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura_MarkupCompile.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura_MarkupCompile.lref
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\MainWindow.baml
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.g.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.Properties.Resources.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.csproj.GenerateResource.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio07_ConCaptura\Relacion02_Ejercicio07_ConCaptura\obj\Debug\Relacion02_Ejercicio07_ConCaptura.pdb

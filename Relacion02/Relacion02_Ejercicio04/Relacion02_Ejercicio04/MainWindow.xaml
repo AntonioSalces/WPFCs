@@ -1,0 +1,20 @@
+﻿<Window x:Class="Relacion02_Ejercicio04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Relacion02_Ejercicio04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="350">
+    <Grid>
+        <TextBlock Margin="10">
+            <Run Text="¡VIVA EL BETIS!" Foreground="Red"/>
+            <LineBreak/>
+            <Run Text="Manque pierda, " Foreground="Green"/>
+            <Run Text="siempre " FontWeight="Bold" Foreground="Blue"/>
+            <Run Text="serás mi equipo." Foreground="DarkGreen"/>
+            <LineBreak/>
+            <Run Text="Tu afición nunca falla." Foreground="Orange"/>
+        </TextBlock>
+    </Grid>
+</Window>

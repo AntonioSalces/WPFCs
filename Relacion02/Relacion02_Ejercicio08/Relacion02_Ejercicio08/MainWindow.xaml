@@ -1,0 +1,29 @@
+﻿<Window x:Class="Relacion02_Ejercicio08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Relacion02_Ejercicio08"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="950">
+    <Grid>
+        <TextBlock FontSize="20">
+    <Span Foreground="DarkGreen">
+        <Run Text="Este es un " />
+        <Run Text="ejemplo" Foreground="Brown" />
+        <Run Text=" de cómo " />
+        <Run Text="Span" Foreground="Green" FontWeight="Bold" />
+        <Run Text=" permite incluir elementos del Betis, como un " />
+        <Hyperlink Foreground="Blue" 
+            NavigateUri="https://shop.realbetisbalompie.es/es-sa"
+            RequestNavigate="Hyperlink_RequestNavigate">
+            enlace a la tienda.
+        </Hyperlink>
+    </Span>
+    <LineBreak/>
+    <Run Text="Run solo aplica estilo a su propio texto."
+         Foreground="Purple" FontStyle="Italic"/>
+        </TextBlock>
+
+    </Grid>
+</Window>
