@@ -1,0 +1,16 @@
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\bin\Debug\Relacion03_Ejercicio04.exe.config
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\bin\Debug\Relacion03_Ejercicio04.exe
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\bin\Debug\Relacion03_Ejercicio04.pdb
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.csproj.AssemblyReference.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\MainWindow.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\App.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04_MarkupCompile.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04_MarkupCompile.lref
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\MainWindow.baml
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.g.resources
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.Properties.Resources.resources
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.csproj.GenerateResource.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.csproj.CoreCompileInputs.cache
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.exe
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.pdb
+C:\Users\asalalc1312\Documents\repos\Propios\WPFCs\Relacion03\Relacion03_Ejercicio04\Relacion03_Ejercicio04\obj\Debug\Relacion03_Ejercicio04.exe.config
