@@ -6,22 +6,25 @@
         xmlns:local="clr-namespace:Relacion03_Ejercicio05"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel Margin="10">
-        <TextBlock Text="Módulos que pienso aprobar"
+	<StackPanel Margin="18,12,0,0">
+		<TextBlock Text="Módulos que pienso aprobar"
                    FontSize="14"
                    FontWeight="Bold"
                    Margin="0,0,0,5"/>
-        <CheckBox Name="cbTodos" Content="Todos los módulos"
+		<CheckBox Name="cbTodos" Content="Todos los módulos"
                   IsThreeState="True"
                   FontWeight="SemiBold"
                   Checked="cbTodos_Changed"
                   Unchecked="cbTodos_Changed"
                   Indeterminate="cbTodos_Changed"
                   Margin="0,5,0,2"/>
-        <StackPanel Margin="18,0,0,0">
-            <CheckBox Name="cbM1" Content="Desarrollo de Interfaces" Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
-            <CheckBox Name="cbM2" Content="Sistemas de Gestión Empresarial" Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
-            <CheckBox Name="cbM3" Content="Acceso a Datos" Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
-        </StackPanel>
-    </StackPanel>
+		<StackPanel Margin="18,0,0,0">
+			<CheckBox Name="cbM1" Content="Desarrollo de Interfaces"
+                      Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
+			<CheckBox Name="cbM2" Content="Sistemas de Gestión Empresarial"
+                      Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
+			<CheckBox Name="cbM3" Content="Acceso a Datos"
+                      Checked="cbIndividual_Changed" Unchecked="cbIndividual_Changed"/>
+		</StackPanel>
+	</StackPanel>
 </Window>

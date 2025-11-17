@@ -1,0 +1,15 @@
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\bin\Debug\Relacion02_Ejercicio06.exe.config
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\bin\Debug\Relacion02_Ejercicio06.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\bin\Debug\Relacion02_Ejercicio06.pdb
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\App.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06_MarkupCompile.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06_MarkupCompile.lref
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\MainWindow.baml
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.g.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.Properties.Resources.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.csproj.GenerateResource.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejercicio06\Relacion02_Ejercicio06\obj\Debug\Relacion02_Ejercicio06.pdb

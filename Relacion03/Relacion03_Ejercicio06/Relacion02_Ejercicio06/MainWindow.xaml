@@ -1,0 +1,34 @@
+﻿<Window x:Class="Relacion02_Ejercicio06.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Relacion02_Ejercicio06"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+
+        <TextBlock Name="tbMain" Margin="5">
+        <StackPanel Orientation="Vertical">
+            
+            <TextBlock>
+                <Span FontWeight="Bold" Foreground="Blue">
+                    Texto enriquecido con Span (Negrita)
+                </Span>
+            </TextBlock>
+            
+            <TextBlock Margin="0,5,0,0">
+                <Run FontStyle="Italic" Foreground="Red">
+                    Texto enriquecido con Run (Cursiva)
+                </Run>
+            </TextBlock>
+            
+        </StackPanel>
+    </TextBlock>
+
+        <CheckBox Name="cbToggle" Content="Mostrar texto alternativo" Margin="5"/>
+
+        <Button Name="btnUpdate" Content="Actualizar texto" Click="btnUpdate_Click" Margin="5" Width="150" HorizontalAlignment="Left"/>
+
+    </StackPanel>
+</Window>

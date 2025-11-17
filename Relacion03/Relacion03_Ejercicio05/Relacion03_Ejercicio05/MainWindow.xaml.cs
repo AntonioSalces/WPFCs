@@ -48,5 +48,6 @@ namespace Relacion03_Ejercicio05
             else
                 cbTodos.IsChecked = null;
         }
+
     }
 }
