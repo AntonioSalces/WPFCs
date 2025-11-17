@@ -1,0 +1,15 @@
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.csproj.AssemblyReference.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\App.g.cs
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09_MarkupCompile.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09_MarkupCompile.lref
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\bin\Debug\Relacion02_Ejerccicio09.exe.config
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\bin\Debug\Relacion02_Ejerccicio09.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\bin\Debug\Relacion02_Ejerccicio09.pdb
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\MainWindow.baml
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.g.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.Properties.Resources.resources
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.csproj.GenerateResource.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.exe
+C:\Users\anton\Documents\repos\Propios\cs\Relacion02_Ejerccicio09\Relacion02_Ejerccicio09\obj\Debug\Relacion02_Ejerccicio09.pdb
